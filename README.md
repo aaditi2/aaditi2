@@ -5,7 +5,7 @@
   [![HitCount](https://hits.dwyl.com/aaditi2/aaditi2.svg?style=flat-square&show=unique)](http://hits.dwyl.com/aaditi2/aaditi2)
   
 Current Comp Sci Master's student at CSU,Chico.
-- 🔭 I’m currently working on HTML, CSS & Javascript.
+- 🔭 I’m currently working on Javascript.
 - 💬 Ask me about Microprocessors, Microcontrollers & Python.
 - 📫 How to reach me: adit.more2001@gmail.com
 - 😄 Pronouns: She/Her
