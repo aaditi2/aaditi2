@@ -2,7 +2,10 @@
 
   [![HitCount](https://hits.dwyl.com/aaditi2/aaditi2.svg?style=flat-square&show=unique)](http://hits.dwyl.com/aaditi2/aaditi2)
   
+Seeking Summer '24 Software Development Internships
 
+About me:
+A budding and passionate software developer proficient in HTML, CSS, JS, SQL, C++, and Python. Backed by hands-on project experience. Prepared to leverage my skills within companies.
 - 🔭 I’m currently working on development using Javascript.
 - 💬 Ask me about Microprocessors, Microcontrollers & Python.
 - ✉️ How to reach me: adit.more2001@gmail.com
