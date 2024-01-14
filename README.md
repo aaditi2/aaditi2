@@ -12,3 +12,4 @@ A budding and passionate software developer proficient in HTML, CSS, JS, SQL, C+
 - ✉️ How to reach me: adit.more2001@gmail.com
 - ⚡ Fun fact: My coding philosophy: Keep it simple, make it work, then refactor it 'til it's perfect! 🧹💡
 
+
