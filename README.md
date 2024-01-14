@@ -1,6 +1,7 @@
 ### Hello! I'm ADITI,
 
   [![HitCount](https://hits.dwyl.com/aaditi2/aaditi2.svg?style=flat-square&show=unique)](http://hits.dwyl.com/aaditi2/aaditi2)
+  
 **Seeking Summer '24 Software Development Internships**
 
 __ABOUT ME:__  
