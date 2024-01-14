@@ -4,7 +4,7 @@
   
 **Seeking Summer '24 Software Development Internships**
 
-__ABOUT ME:__  
+ABOUT ME:
 A budding and passionate software developer proficient in HTML, CSS, JS, SQL, C++, and Python. Backed by hands-on project experience. Prepared to leverage my skills within companies.
 
 - 🔭 I’m currently working on development using Javascript.
