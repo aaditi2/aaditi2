@@ -7,6 +7,11 @@
 __ABOUT ME:__  
 A budding and passionate software developer proficient in HTML, CSS, JS, SQL, C++, and Python. Backed by hands-on project experience. Prepared to leverage my skills within companies.
 
+git clone https://github.com/aaditi2/stats-card 
+cd stats-card
+npm i
+npm start
+
 - 🔭 I’m currently working on development using Javascript.
 - 💬 Ask me about Microprocessors, Microcontrollers & Python.
 - ✉️ How to reach me: aditimorew@gmail.com
