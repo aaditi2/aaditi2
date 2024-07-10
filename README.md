@@ -2,7 +2,7 @@
 
   [![HitCount](https://hits.dwyl.com/aaditi2/aaditi2.svg?style=flat-square&show=unique)](http://hits.dwyl.com/aaditi2/aaditi2)
   
-**Seeking Summer '24 Software Development Internships**
+**Seeking Full-time SDE Jobs starting Summer of 2025**
 
 __ABOUT ME:__  
 A budding and passionate software developer proficient in JS, SQL & C++. Backed by hands-on project experience. Prepared to leverage my skills within companies.
