@@ -5,7 +5,7 @@
 **Seeking Full-time SDE Jobs starting Summer of 2025**
 
 __ABOUT ME:__  
-A budding and passionate software developer proficient in JS, SQL & C++. Backed by hands-on project experience. Prepared to leverage my skills within companies.
+A budding and passionate software developer proficient in JS, SQL & C++. Backed by hands-on project experience and work experience at Boeing as a SDE. Prepared to leverage my skills within companies.
 
 
 
