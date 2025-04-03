@@ -1,6 +1,6 @@
 # 👩‍💻 Aditi More
 
-[![HitCount](https://hits.dwyl.com/aaditi2/aaditi2.svg?style=flat-square&show=unique)](http://hits.dwyl.com/aaditi2/aaditi2)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=aaditi2.aaditi2)
 
 🚀 **Full-stack Developer | Generative AI Explorer | SDE Intern @ Boeing**  
 🎯 **Actively seeking Full-time SWE roles starting Summer 2025**
