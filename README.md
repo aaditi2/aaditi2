@@ -1,6 +1,6 @@
 # 👩‍💻 Aditi More
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=aaditi2.aaditi2)
+![Profile views](https://komarev.com/ghpvc/?username=aaditi2&color=dc143c)
 
 🚀 **Full-stack Developer | Generative AI Explorer | SDE Intern @ Boeing**  
 🎯 **Actively seeking Full-time SWE roles starting Summer 2025**
@@ -14,7 +14,7 @@
 - 🛠️ Built Siri2.0; a privacy-first voice-based GenAI assistant with contextual memory & empathy
 - ✨ Worked on real-time data pipelines, their GenAI prototype tools @ Boeing
 - 🔍 Interested in on-device ML, NLP, AI assistants, and aerospace tech
-- 🖥️ Portfolio: [aditinmore.netlify.app](https://aditinmore.netlify.app)
+- 🖥️ Portfolio: 
 
 ---
 
