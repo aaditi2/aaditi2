@@ -2,7 +2,7 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=aaditi2&color=dc143c)
 
-🚀 **Full-stack Developer | Generative AI Explorer | SDE Intern @ Boeing**  
+🚀 **Full-stack Developer | Generative AI | SDE Intern @ Boeing**  
 🎯 **Actively seeking Full-time SWE roles starting Summer 2025**
 
 ---
@@ -14,13 +14,12 @@
 - 🛠️ Built Siri2.0; a privacy-first voice-based GenAI assistant with contextual memory & empathy
 - ✨ Worked on real-time data pipelines, their GenAI prototype tools @ Boeing
 - 🔍 Interested in on-device ML, NLP, AI assistants, and aerospace tech
-- 🖥️ Portfolio: 
 
 ---
 
 ### 📫 Contact Me  
 - 📧 Email: aditiw23@gmail.com  
-- 🌐 Website: [aditinmore.netlify.app](https://aditinmore.netlify.app)  
+- 🌐 Website: [aditinmore.netlify.app](https://aditinmore.netlify.app) 
 - 💼 LinkedIn: [in/aditi-more-978179225](https://linkedin.com/in/aditi-more-978179225)  
 - 💻 GitHub: [@aaditi2](https://github.com/aaditi2)
 
