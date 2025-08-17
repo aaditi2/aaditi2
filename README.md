@@ -18,7 +18,7 @@
 
 ### 📫 Contact Me  
 - 📧 Email: aditiw23@gmail.com  
-- 🌐 Website: dm to check it
+- 🌐 Website: https://aditinmore.netlify.app/
 - 💼 LinkedIn: [in/aditi-more-978179225](https://linkedin.com/in/aditi-more-978179225)  
 - 💻 GitHub: [@aaditi2](https://github.com/aaditi2)
 
