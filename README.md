@@ -21,6 +21,7 @@
 - 🌐 Website: https://aditinmore.netlify.app/
 - 💼 LinkedIn: [in/aditi-more-978179225](https://linkedin.com/in/aditi-more-978179225)  
 - 💻 GitHub: [@aaditi2](https://github.com/aaditi2)
+- ✍️ Medium Blog: [@aditi2001w](https://medium.com/@aditi2001w)  
 
 ---
 
